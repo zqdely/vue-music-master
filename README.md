@@ -1,4 +1,4 @@
-# Vue仿制移动端QQ音乐（可预览） 测试信息
+# Vue仿制移动端QQ音乐（可预览）
 
 项目预览地址：[仿制QQ音乐](https://zhangzhihao1996.github.io/vue-music-master/#/recommend)  
 github地址：[项目的github地址](https://github.com/zhangZhiHao1996/vue-music-master)  
